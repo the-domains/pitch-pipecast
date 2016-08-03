@@ -12,3 +12,7 @@ color:
     - '#3498DB'
     - '#2980B9'
 name: pitch pipecast
+navigation:
+  - name: About Gary
+    id: e38d0da9-d1e1-4033-9fc0-6530abf09ba8
+    type: content
