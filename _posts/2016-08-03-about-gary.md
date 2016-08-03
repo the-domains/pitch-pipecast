@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-08-03T19:26:44.241Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a9e697f-972b-4d3c-83bf-fde252bb06a6.jpg
+datePublished: '2016-08-03T19:29:05.325Z'
 author: []
 via: {}
-dateModified: '2016-08-03T19:26:00.356Z'
+dateModified: '2016-08-03T19:29:02.939Z'
 title: About Gary
 publisher: {}
 description: >-
@@ -14,11 +12,10 @@ description: >-
   school orchestra. This led to a series of new educational opportunities. By
   the time he graduated Monterey High School, Gary was comfortable on cello,
   guitar, mandolin, fiddle and banjo.
-starred: false
 sourcePath: _posts/2016-08-03-about-gary.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: about-gary/index.html
 _type: MediaObject
 
 ---
