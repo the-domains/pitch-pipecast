@@ -1,4 +1,3 @@
-layout_spectrum: 0.7937125859316438
 typography_spectrum: 0.6152523611672223
 color:
   brandStrength: 0.16925529204308987
@@ -11,8 +10,14 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-name: pitch pipecast
+layout_spectrum: 0.7937125859316438
+author:
+  name: Gary Moyers
+  email: garymoyers@gmail.com
+  url: 'http://garymoyers.com'
+name: Mo-Town
 navigation:
   - name: About Gary
     id: e38d0da9-d1e1-4033-9fc0-6530abf09ba8
     type: content
+title: The World According to Mo
