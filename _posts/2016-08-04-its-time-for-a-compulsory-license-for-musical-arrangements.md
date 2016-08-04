@@ -1,16 +1,16 @@
 ---
+datePublished: '2016-08-04T20:19:18.305Z'
+sourcePath: >-
+  _posts/2016-08-04-its-time-for-a-compulsory-license-for-musical-arrangements.md
+author: []
+via: {}
+dateModified: '2016-08-04T20:19:17.782Z'
+title: It’s Time for a Compulsory License for Musical Arrangements
+publisher: {}
 description: >-
   As an arranger of musical works, I often feel as though my hands are tied
   behind my back.
-dateModified: '2016-08-04T20:10:29.975Z'
-datePublished: '2016-08-04T20:11:01.920Z'
-title: It’s Time for a Compulsory License for Musical Arrangements
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: >-
-  _posts/2016-08-04-its-time-for-a-compulsory-license-for-musical-arrangements.md
 inFeed: true
 hasPage: false
 inNav: false
