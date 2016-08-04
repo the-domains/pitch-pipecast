@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-04T20:19:18.305Z'
+datePublished: '2016-08-04T20:26:55.781Z'
 sourcePath: >-
   _posts/2016-08-04-its-time-for-a-compulsory-license-for-musical-arrangements.md
 author: []
 via: {}
-dateModified: '2016-08-04T20:19:17.782Z'
+dateModified: '2016-08-04T20:26:55.193Z'
 title: It’s Time for a Compulsory License for Musical Arrangements
 publisher: {}
 description: >-
@@ -27,7 +27,7 @@ I have arranged hundreds of songs for various events and groups, 99% of them bei
 
 The problem, as far as it concerns me, is in obtaining a license to publish. Now, any recorded work is a different story. If there is a song that I'd like to record that is something other than public domain, the tools are in place to obtain a mechanical license to be able to record and publish (thank you Harry Fox, Limelight, Loudr and others). Release on video? No problem, just get a sync license.
 
-To release a written arrangement of a work... well that's a horse of another color. There are no laws in place that allow you to do so. An arranger must contact the owner of the song and _request_a license to release the arrangement. The answer can be no. Or, the answer could be, "You want to release an arrangement that may sell 10 copies? Ok, that'll be $2,000.00." Might as well be a no.
+To release a written arrangement of a work... well that's a horse of another color. There are no laws in place that allow you to do so. An arranger must contact the owner of the song and _request _a license to release the arrangement. The answer can be no. Or, the answer could be, "You want to release an arrangement that may sell 10 copies? Ok, that'll be $2,000.00." Might as well be a no.
 
 Responses and processes are all over the map. All those composers who make themselves available to arrange that special song you've been wanting? Most likely you are breaking the law, since the majority of them do not seek permission and leave it up to you to request the necessary license. And who will most likely get zapped if the copyright police come calling? The arranger.
 
